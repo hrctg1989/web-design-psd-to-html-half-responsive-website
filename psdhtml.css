@@ -1,0 +1,314 @@
+body{
+
+}
+#row1{
+    height: 50px;
+    width: 100%;
+    background: #fff;
+}
+.topicon {
+	margin-top: 14px;
+}
+.topicon img {
+	/* float: left; */
+	height: 25px;
+	margin-right: 21px;
+}
+.topicon img:first-child{
+    margin-left: 0;
+}
+.topicon img:hover{
+    transform: scale(1.2);
+}
+
+.topmenu{
+    margin-top: 18px;
+}
+.topmenu ul{}
+.topmenu ul li {
+	float: ;
+	margin-right: 22px;
+	list-style: none;
+	display: inline-block;
+	margin-top: -3px;
+}
+.topmenu ul li a {
+	color: #999999;
+	font-size: 19px;
+	margin-top: ;
+}
+
+
+#row2{
+    height: 200px;
+    width: 100%;
+    background: #ebebeb;
+}
+.m-t{
+    margin-top: 50px;
+}
+
+.logo {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	border-right: 2px solid black;
+	border-right-width: 5px;
+	margin-right: -5px;
+}
+.logo::first-letter{
+    font-size: 58px;
+}
+.logor {
+	margin-left: -15px;
+	margin-top: 33px;
+	font-size: 16px;
+	font-weight: bold;
+}
+.search-form {
+	margin-top: 29px;
+}
+.btn-default {
+	color: #333;
+	background-color: #fff ;
+	border-color: #ccc !important;
+	background: #97455f;
+	color: #fff;
+	text-transform: uppercase;
+	border-radius: 0px 5px 5px 0px;
+	margin-left: -5px;
+}
+.custom-form{
+    border-radius: 8px 0px 0px 8px;
+}
+.menu li a {
+    color: #fff !important;
+}
+
+#row3{
+	height: 200px;
+	background: #ebebeb;
+}
+
+
+#row4{
+	height: 400px;
+	width: 100%;
+	background: white;
+}
+.slider-section {
+	margin-top: -148px;
+	width: 1139px;
+	background: white;
+}
+.item{
+	width: 900px;
+	height: 350px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+.item img{
+	width: 1139px;
+}
+
+.carousel-caption {
+	background: #adadad;
+	padding: ;
+	border-radius: 7px;
+	margin-left: ;
+	width: 588px;
+	margin-left: 123px;
+	line-height: 17px;
+	color: #080808;
+}
+.carousel-caption h2{}
+.carousel-caption p {
+	width: 579px;
+	margin: 0 auto;
+}
+
+
+
+.carousel-indicators li{
+	background: #333333;
+	height: 15px;
+	width: 15px;
+	border-radius: 100%;
+}
+.carousel-indicators .active{
+	border: 2px solid #333333;
+	background: #fff;
+	height: 15px;
+	width: 15px;
+	border-radius: 100%;
+}
+
+
+#row5 {
+	height: 297px;
+	width: 100%;
+	background: #fff;
+}
+.blog_title {
+	margin-top: -138px;
+}
+.blog_title h3 {
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 24px;
+	margin-top: -41px;
+}
+.hr_role{}
+.hr_role hr{
+	height: 10px;
+	background: whitesmoke;
+}
+
+.blog-bottom{}
+.row{}
+.img-part{}
+.img-part img {
+	width: 100%;
+	margin-top: 26px;
+}
+.blog-all{}
+.blog-all h3 {
+	color: #97455f;
+}
+.blog-all p {
+	text-align: justify;
+}
+.rowhr1{
+
+}
+.rowhr1 hr {
+	margin-top: 0px;
+	background: black;
+	width: ;
+	height: 6px;
+	background: whitesmoke;
+}
+.rowhr1 h3 {
+	margin: ;
+	text-align: center;
+	margin-top: -38px;
+	width: 297px;
+	margin: 0 auto;
+	margin-top: -40px;
+	
+}
+
+.ablog-part {
+	margin-top: 30px;
+}
+.roundimg{}
+.roundimg img {
+	width: 100%;
+	border-radius: ;
+}
+
+
+.ablog-r{}
+.ablog-r h3{}
+.ablog-r p{}
+.ablog-r a{}
+
+
+.roundimg2{}
+.roundimg2 img {
+	width: 47%;
+	border-radius: ;
+	height: 60px;
+	float: unset;
+	margin-left: 73px;
+}
+
+
+.ablog-r2{}
+.ablog-r2 h3 {
+	margin-left: -29px;
+	margin-top: 1px;
+}
+.ablog-r2 p {
+	margin-left: -114px;
+	margin-top: 23px;
+	color: gray;
+}
+.ablog-r2 h4 {
+	margin-left: -25px;
+}
+
+.box {
+	background: #97455f;
+	height: 100px;
+	width: 100%;
+	border-radius: 15px;
+	margin-top: 50px;
+}
+.box h2 {
+	color: #fff;
+	margin-left: 90px;
+}
+.box p {
+	color: #fff;
+	margin-left: 90px;
+	font-size: 18px;
+}
+.box button {
+	margin-top: 26px;
+	margin-left: 10px;
+	padding: 14px 57px;
+	background: ;
+	text-transform: uppercase;
+}
+
+.btn-primary {
+	color: black; 
+	background-color: #fff;  
+	border-color: #2e6da4;
+}
+
+
+#row7 {
+	margin-top: 60px;
+	/* color: b; */
+	background: #EBEBEB;
+}
+.bottom-sec{}
+.bottom-sec img{}
+.bottom-sec h3{}
+.bottom-sec p{}
+.bottom-sec ul {
+	list-style: none;
+}
+.bottom-sec ul li {
+	margin-left: -38px;
+}
+
+textarea.form-control {
+	height: 135px;
+}
+
+hr {
+	height: ;
+	width: ;
+	background: red;
+	height: 2px;
+}
+#row8 {
+	margin-bottom: 19px;
+}
+.hridoy{}
+.hridoy h2 {
+	margin-left: 73%;
+	margin-top: -38px;
+	color: #8e8e8e;
+	font-size: 20px;
+}
+.hridoy h3 {
+	margin-top: -11px;
+	color: #8e8e8e;
+}
+#rowb {
+	background: #EBEBEB;
+	height: 438px;
+}
+
